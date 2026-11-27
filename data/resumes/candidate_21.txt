@@ -1,0 +1,21 @@
+Candidate 21
+
+PROFESSIONAL SUMMARY
+Data Scientist with 2+ years of experience delivering production software and technology solutions.
+
+SKILLS
+Python, Machine Learning, Pandas, Scikit-learn
+
+EXPERIENCE
+2+ years of experience in data scientist projects.
+Worked on enterprise applications, testing, APIs, data processing, cloud services, and automation.
+Designed maintainable solutions, collaborated with cross-functional teams, and supported releases.
+
+PROJECTS
+Built sample solutions using Python, Machine Learning, Pandas, Scikit-learn.
+
+EDUCATION
+B.Tech in Computer Science, Example University
+
+CERTIFICATIONS
+Cloud and software engineering fundamentals.

@@ -1,0 +1,21 @@
+Candidate 06
+
+PROFESSIONAL SUMMARY
+DevOps Engineer with 8+ years of experience delivering production software and technology solutions.
+
+SKILLS
+AWS, Docker, Kubernetes, Python
+
+EXPERIENCE
+8+ years of experience in devops engineer projects.
+Worked on enterprise applications, testing, APIs, data processing, cloud services, and automation.
+Designed maintainable solutions, collaborated with cross-functional teams, and supported releases.
+
+PROJECTS
+Built sample solutions using AWS, Docker, Kubernetes, Python.
+
+EDUCATION
+B.Tech in Computer Science, Example University
+
+CERTIFICATIONS
+Cloud and software engineering fundamentals.

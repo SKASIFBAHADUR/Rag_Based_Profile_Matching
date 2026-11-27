@@ -1,0 +1,21 @@
+Candidate 01
+
+PROFESSIONAL SUMMARY
+Python Developer with 3+ years of experience delivering production software and technology solutions.
+
+SKILLS
+Python, SQL, AWS, Docker
+
+EXPERIENCE
+3+ years of experience in python developer projects.
+Worked on enterprise applications, testing, APIs, data processing, cloud services, and automation.
+Designed maintainable solutions, collaborated with cross-functional teams, and supported releases.
+
+PROJECTS
+Built sample solutions using Python, SQL, AWS, Docker.
+
+EDUCATION
+B.Tech in Computer Science, Example University
+
+CERTIFICATIONS
+Cloud and software engineering fundamentals.

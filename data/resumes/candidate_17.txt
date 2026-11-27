@@ -1,0 +1,21 @@
+Candidate 17
+
+PROFESSIONAL SUMMARY
+Frontend Developer with 5+ years of experience delivering production software and technology solutions.
+
+SKILLS
+JavaScript, TypeScript, React
+
+EXPERIENCE
+5+ years of experience in frontend developer projects.
+Worked on enterprise applications, testing, APIs, data processing, cloud services, and automation.
+Designed maintainable solutions, collaborated with cross-functional teams, and supported releases.
+
+PROJECTS
+Built sample solutions using JavaScript, TypeScript, React.
+
+EDUCATION
+B.Tech in Computer Science, Example University
+
+CERTIFICATIONS
+Cloud and software engineering fundamentals.

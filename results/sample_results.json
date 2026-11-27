@@ -1,0 +1,152 @@
+{
+  "job_description": "Hiring a Data Scientist with 3+ years of experience.\nRequired skills: Python, Machine Learning, Pandas and Scikit-learn.\nStrong analytical and model-building skills required.",
+  "top_matches": [
+    {
+      "candidate_name": "Candidate 15",
+      "resume_path": "data\\resumes\\candidate_15.txt",
+      "match_score": 79.63,
+      "matched_skills": [
+        "Python",
+        "Machine Learning",
+        "Pandas",
+        "Scikit-Learn"
+      ],
+      "relevant_excerpts": [
+        "Data Scientist with 3+ years of experience delivering production software and technology solutions.",
+        "3+ years of experience in data scientist projects.\nWorked on enterprise applications, testing, APIs, data processing, cloud services, and automation.\nDesigned maintainable solutions, collaborated with cross-functional teams, and supported releases.",
+        "Python, Machine Learning, Pandas, Scikit-learn"
+      ],
+      "reasoning": "Semantic similarity was strong in sections: experience, professional summary, skills. Matched critical skills: Python, Machine Learning, Pandas, Scikit-Learn."
+    },
+    {
+      "candidate_name": "Candidate 09",
+      "resume_path": "data\\resumes\\candidate_09.txt",
+      "match_score": 77.11,
+      "matched_skills": [
+        "Python",
+        "Machine Learning",
+        "Pandas",
+        "Scikit-Learn"
+      ],
+      "relevant_excerpts": [
+        "Data Scientist with 4+ years of experience delivering production software and technology solutions.",
+        "4+ years of experience in data scientist projects.\nWorked on enterprise applications, testing, APIs, data processing, cloud services, and automation.\nDesigned maintainable solutions, collaborated with cross-functional teams, and supported releases.",
+        "Python, Machine Learning, Pandas, Scikit-learn"
+      ],
+      "reasoning": "Semantic similarity was strong in sections: experience, professional summary, skills. Matched critical skills: Python, Machine Learning, Pandas, Scikit-Learn."
+    },
+    {
+      "candidate_name": "Candidate 03",
+      "resume_path": "data\\resumes\\candidate_03.txt",
+      "match_score": 76.62,
+      "matched_skills": [
+        "Python",
+        "Machine Learning",
+        "Pandas",
+        "Scikit-Learn"
+      ],
+      "relevant_excerpts": [
+        "Data Scientist with 5+ years of experience delivering production software and technology solutions.",
+        "5+ years of experience in data scientist projects.\nWorked on enterprise applications, testing, APIs, data processing, cloud services, and automation.\nDesigned maintainable solutions, collaborated with cross-functional teams, and supported releases.",
+        "Python, Machine Learning, Pandas, Scikit-learn"
+      ],
+      "reasoning": "Semantic similarity was strong in sections: experience, professional summary, skills. Matched critical skills: Python, Machine Learning, Pandas, Scikit-Learn."
+    },
+    {
+      "candidate_name": "Candidate 27",
+      "resume_path": "data\\resumes\\candidate_27.txt",
+      "match_score": 75.29,
+      "matched_skills": [
+        "Python",
+        "Machine Learning",
+        "Pandas",
+        "Scikit-Learn"
+      ],
+      "relevant_excerpts": [
+        "Data Scientist with 8+ years of experience delivering production software and technology solutions.",
+        "8+ years of experience in data scientist projects.\nWorked on enterprise applications, testing, APIs, data processing, cloud services, and automation.\nDesigned maintainable solutions, collaborated with cross-functional teams, and supported releases.",
+        "Python, Machine Learning, Pandas, Scikit-learn"
+      ],
+      "reasoning": "Semantic similarity was strong in sections: experience, professional summary, skills. Matched critical skills: Python, Machine Learning, Pandas, Scikit-Learn."
+    },
+    {
+      "candidate_name": "Candidate 01",
+      "resume_path": "data\\resumes\\candidate_01.txt",
+      "match_score": 42.67,
+      "matched_skills": [
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python Developer with 3+ years of experience delivering production software and technology solutions.",
+        "3+ years of experience in python developer projects.\nWorked on enterprise applications, testing, APIs, data processing, cloud services, and automation.\nDesigned maintainable solutions, collaborated with cross-functional teams, and supported releases."
+      ],
+      "reasoning": "Semantic similarity was strong in sections: experience, professional summary. Matched critical skills: Python."
+    },
+    {
+      "candidate_name": "Candidate 19",
+      "resume_path": "data\\resumes\\candidate_19.txt",
+      "match_score": 41.32,
+      "matched_skills": [
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python Developer with 7+ years of experience delivering production software and technology solutions.",
+        "7+ years of experience in python developer projects.\nWorked on enterprise applications, testing, APIs, data processing, cloud services, and automation.\nDesigned maintainable solutions, collaborated with cross-functional teams, and supported releases."
+      ],
+      "reasoning": "Semantic similarity was strong in sections: experience, professional summary. Matched critical skills: Python."
+    },
+    {
+      "candidate_name": "Candidate 25",
+      "resume_path": "data\\resumes\\candidate_25.txt",
+      "match_score": 40.95,
+      "matched_skills": [
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python Developer with 6+ years of experience delivering production software and technology solutions.",
+        "6+ years of experience in python developer projects.\nWorked on enterprise applications, testing, APIs, data processing, cloud services, and automation.\nDesigned maintainable solutions, collaborated with cross-functional teams, and supported releases."
+      ],
+      "reasoning": "Semantic similarity was strong in sections: experience, professional summary. Matched critical skills: Python."
+    },
+    {
+      "candidate_name": "Candidate 13",
+      "resume_path": "data\\resumes\\candidate_13.txt",
+      "match_score": 40.15,
+      "matched_skills": [
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "Python Developer with 8+ years of experience delivering production software and technology solutions.",
+        "8+ years of experience in python developer projects.\nWorked on enterprise applications, testing, APIs, data processing, cloud services, and automation.\nDesigned maintainable solutions, collaborated with cross-functional teams, and supported releases."
+      ],
+      "reasoning": "Semantic similarity was strong in sections: experience, professional summary. Matched critical skills: Python."
+    },
+    {
+      "candidate_name": "Candidate 12",
+      "resume_path": "data\\resumes\\candidate_12.txt",
+      "match_score": 38.82,
+      "matched_skills": [
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "DevOps Engineer with 7+ years of experience delivering production software and technology solutions.",
+        "7+ years of experience in devops engineer projects.\nWorked on enterprise applications, testing, APIs, data processing, cloud services, and automation.\nDesigned maintainable solutions, collaborated with cross-functional teams, and supported releases."
+      ],
+      "reasoning": "Semantic similarity was strong in sections: experience, professional summary. Matched critical skills: Python."
+    },
+    {
+      "candidate_name": "Candidate 30",
+      "resume_path": "data\\resumes\\candidate_30.txt",
+      "match_score": 38.22,
+      "matched_skills": [
+        "Python"
+      ],
+      "relevant_excerpts": [
+        "DevOps Engineer with 4+ years of experience delivering production software and technology solutions.",
+        "4+ years of experience in devops engineer projects.\nWorked on enterprise applications, testing, APIs, data processing, cloud services, and automation.\nDesigned maintainable solutions, collaborated with cross-functional teams, and supported releases."
+      ],
+      "reasoning": "Semantic similarity was strong in sections: experience, professional summary. Matched critical skills: Python."
+    }
+  ],
+  "latency_ms": 24.84
+}

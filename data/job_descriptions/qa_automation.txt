@@ -1,0 +1,3 @@
+Need a QA Automation Engineer with 4+ years experience.
+Must have Java, Selenium, Playwright and Rest Assured.
+API and UI automation experience required.

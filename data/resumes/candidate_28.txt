@@ -1,0 +1,21 @@
+Candidate 28
+
+PROFESSIONAL SUMMARY
+QA Automation Engineer with 2+ years of experience delivering production software and technology solutions.
+
+SKILLS
+Java, Selenium, Playwright, Rest Assured
+
+EXPERIENCE
+2+ years of experience in qa automation engineer projects.
+Worked on enterprise applications, testing, APIs, data processing, cloud services, and automation.
+Designed maintainable solutions, collaborated with cross-functional teams, and supported releases.
+
+PROJECTS
+Built sample solutions using Java, Selenium, Playwright, Rest Assured.
+
+EDUCATION
+B.Tech in Computer Science, Example University
+
+CERTIFICATIONS
+Cloud and software engineering fundamentals.
